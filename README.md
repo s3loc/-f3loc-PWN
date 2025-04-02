@@ -32,9 +32,8 @@ Copy
 
 # Clone the repository
 
-git clone https://github.com/s3loc_/RedTeam-Toolkit.git
+git clone: https://github.com/s3loc/-f3loc-PWN.git
 
-cd RedTeam-Toolkit
 
 
 # Install dependencies
