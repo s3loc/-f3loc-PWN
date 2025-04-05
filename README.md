@@ -96,6 +96,13 @@ License
 This project is licensed under the GNU General Public License v3.0 - see the LICENSE file for details.
 
 
+Disclaimer of Responsibility
+
+This software is developed solely for educational, research, or lawful purposes. The use of this software is entirely at the user's own risk. The developers and/or owners of the software cannot be held responsible for any misuse or involvement in illegal activities.
+
+By using this software, the user agrees to comply with all applicable legal requirements and ethical standards. The developers take no responsibility for any damage, loss, or legal liability arising from the use of the software.
+
+
 ![s3loc_](https://github.com/user-attachments/assets/906d8614-b089-4984-b6ef-2a365517caa7)
 
 
